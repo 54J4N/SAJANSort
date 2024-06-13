@@ -29,7 +29,7 @@ SAJANSort leverages a combination of traditional sorting algorithms and adaptive
 To get started with SAJANSort, clone the repository and install the required dependencies:
 
 ```sh
-git clone https://gitlab.com/alone3840724/SAJANSort.git
+git clone https://github.com/SAJANSort
 cd SAJANSort
 pip install -r requirements.txt
 
