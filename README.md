@@ -61,4 +61,4 @@ python sajan_sort.py
 
 Developer
 Name: Sajan Ghimire
-![Algorithm Visualization](sort.png)
+![Algorithm Visualization](sort.jpg)
