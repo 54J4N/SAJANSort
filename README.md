@@ -33,7 +33,6 @@ git clone https://gitlab.com/alone3840724/SAJANSort.git
 cd SAJANSort
 pip install -r requirements.txt
 
-
 Usage
 python
 Copy code
@@ -62,5 +61,4 @@ python sajan_sort.py
 
 Developer
 Name: Sajan Ghimire
-
 ![Algorithm Visualization](sort.png)
