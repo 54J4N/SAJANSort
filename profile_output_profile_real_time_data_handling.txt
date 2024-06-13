@@ -1,0 +1,39 @@
+         184680 function calls in 0.360 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.360    0.360 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:148(profile_real_time_data_handling)
+        2    0.026    0.013    0.217    0.108 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:126(generate_random_data)
+    15000    0.029    0.000    0.191    0.000 C:\Python312\Lib\random.py:332(randint)
+    15000    0.080    0.000    0.162    0.000 C:\Python312\Lib\random.py:291(randrange)
+        1    0.010    0.010    0.141    0.141 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:43(real_time_data_handling)
+     5000    0.021    0.000    0.131    0.000 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:32(dynamic_adjustment)
+    15000    0.049    0.000    0.066    0.000 C:\Python312\Lib\random.py:242(_randbelow_with_getrandbits)
+     5000    0.029    0.000    0.062    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:253(add)
+     5000    0.017    0.000    0.048    0.000 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:53(adaptive_learning)
+     5000    0.016    0.000    0.019    0.000 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:81(adjust_sorting_strategy)
+     5000    0.014    0.000    0.016    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:289(_expand)
+    45000    0.016    0.000    0.016    0.000 {built-in method _operator.index}
+     5000    0.012    0.000    0.012    0.000 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:63(analyze_data_patterns)
+     4996    0.012    0.000    0.012    0.000 {built-in method _bisect.insort_right}
+    24641    0.010    0.000    0.010    0.000 {method 'getrandbits' of '_random.Random' objects}
+    15000    0.007    0.000    0.007    0.000 {method 'bit_length' of 'int' objects}
+    10002    0.004    0.000    0.004    0.000 {built-in method builtins.len}
+     5000    0.003    0.000    0.003    0.000 {built-in method _bisect.bisect_right}
+     5000    0.003    0.000    0.003    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.003    0.003 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:18(input_data)
+        1    0.000    0.000    0.003    0.003 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:28(initial_sort)
+        1    0.000    0.000    0.003    0.003 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:323(update)
+        1    0.003    0.003    0.003    0.003 {built-in method builtins.sorted}
+        2    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+       11    0.000    0.000    0.000    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:353(<genexpr>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 C:\Users\user\Desktop\SAJAN Sort\sajan_sort.py:13(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:174(__new__)
+       11    0.000    0.000    0.000    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:355(<genexpr>)
+        4    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python312\Lib\site-packages\sortedcontainers\sortedlist.py:144(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x00007FF9F56098B0}
+
+
