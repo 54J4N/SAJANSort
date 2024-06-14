@@ -1,3 +1,4 @@
+![Algorithm Visualization](images/sort.jpg)
 # SAJANSort
 
 ## Overview
@@ -62,4 +63,4 @@ python sajan_sort.py
 Developer
 Name: Sajan Ghimire
 
-![Algorithm Visualization](SAJANSort/images/sort.jpg)
+
