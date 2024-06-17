@@ -35,8 +35,6 @@ cd SAJANSort
 pip install -r requirements.txt
 
 Usage
-python
-Copy code
 from sajan_sort import SajanSort, generate_random_data
 
 # Create an instance of SajanSort
@@ -57,7 +55,6 @@ print(sorted_data)
 
 Profiling
 To profile the dynamic adjustment and real-time data handling methods, run the following commands:
-
 python sajan_sort.py
 
 Developer
